@@ -1,0 +1,9 @@
+cat> kotlin.txt
+> cat > kotlin.txt
+cat >kotlin.txt
+cat > kotlin.txt
+ nombre: ana cristina
+ correo: anagallego129113@mgail.com
+
+...Añadiendo Datos
+-...archivo creado localmente.
